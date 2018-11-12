@@ -16,3 +16,8 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+
+## Screen Shot
+
+![alt text](https://github.com/yamin27/VuetitfyCalendar/blob/master/src/assets/calender.png)
+
