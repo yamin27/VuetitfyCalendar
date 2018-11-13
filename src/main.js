@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Vuetify from 'vuetify'
+// import Vuetify from 'vuetify/lib'
 import DaySpanVuetify from 'dayspan-vuetify'
 import App from './App.vue'
 

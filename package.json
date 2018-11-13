@@ -10,9 +10,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "dayspan-vuetify": "^0.3.6",
-    "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "dayspan": "^0.12.2",
+    "material-design-icons-iconfont": "^3.0.3",
+    "vue": "^2.3.3",
+    "vuetify": "^1.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
